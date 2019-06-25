@@ -23,6 +23,6 @@ class hunter9 {
 		    }
 		    }
 		}
-		System.out.print(c+""+d);
+		System.out.print(c+" "+d);
 	}
 }
